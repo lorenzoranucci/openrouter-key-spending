@@ -5,13 +5,13 @@ An agent skill that reports OpenRouter API key spending (standard vs BYOK), the 
 ## Install
 
 ```sh
-npx skills add <owner>/openrouter-key-spending -g
+npx skills add lorenzoranucci/openrouter-key-spending -g
 ```
 
 Or manually for OpenCode:
 
 ```sh
-git clone <repo-url> ~/.config/opencode/skills/openrouter-key-spending
+git clone https://github.com/lorenzoranucci/openrouter-key-spending.git ~/.config/opencode/skills/openrouter-key-spending
 ```
 
 ## Requirements
